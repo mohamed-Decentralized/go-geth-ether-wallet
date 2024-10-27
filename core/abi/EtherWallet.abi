@@ -1,0 +1,41 @@
+[
+	{
+		"inputs": [],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [],
+		"name": "AmountMustBeGreaterThanZeroError",
+		"type": "error"
+	},
+	{
+		"inputs": [],
+		"name": "deposit",
+		"outputs": [],
+		"stateMutability": "payable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "NoFundsAvailableForWithdrawalError",
+		"type": "error"
+	},
+	{
+		"inputs": [],
+		"name": "OnlyOwnerError",
+		"type": "error"
+	},
+	{
+		"inputs": [],
+		"name": "TransferFailedError",
+		"type": "error"
+	},
+	{
+		"inputs": [],
+		"name": "withdraw",
+		"outputs": [],
+		"stateMutability": "payable",
+		"type": "function"
+	}
+]
